@@ -42,7 +42,7 @@ def using_delete (instructors, no_offense_steven)
   instructors.delete("Steven")
 end 
 
-def using_delete_at (famous_robots, deleted_robot)
+def using_delete_at (famous_robots, 2)
   famous_robots.de
 end 
 
