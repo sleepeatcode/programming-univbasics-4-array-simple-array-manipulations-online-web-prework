@@ -38,11 +38,11 @@ def using_flatten (instruments)
   
 end 
 
-def using_delete
+def using_delete (instructors)
   
 end 
 
-def using_delete_at
+def using_delete_at (famous_robots)
   
 end 
 
